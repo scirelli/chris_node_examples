@@ -1,0 +1,20 @@
+All params are optional
+Test 0:	 Param1: 1	Param2: undefined	Param3: undefined
+Test 1:	 Param1: 1	Param2: 2	Param3: undefined
+Test 2:	 Param1: 1	Param2: 2	Param3: 3
+=================
+Params can have defaults
+Test 0:	 Param1: 1	Param2: a	Param3: b
+Test 1:	 Param1: 1	Param2: 2	Param3: b
+Test 2:	 Param1: 1	Param2: 2	Param3: 3
+=================
+Params don't need to be named
+Test 0:	 Param1: 1	Param2: undefined	Param3: undefined
+Test 1:	 Param1: 1	Param2: 2	Param3: undefined
+Test 2:	 Param1: 1	Param2: 2	Param3: 3
+=================
+If you want the caller to be able to use names use and object
+Test 0:	 Param1: 1	Param2: undefined	Param3: undefined
+Test 1:	 Param1: 1	Param2: 2	Param3: undefined
+Test 2:	 Param1: 1	Param2: 2	Param3: 3
+=================
