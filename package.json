@@ -1,0 +1,24 @@
+{
+  "name": "chris",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/scirelli/chris_node_examples#readme",
+  "bugs": {
+    "url": "https://github.com/scirelli/chris_node_examples/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scirelli/chris_node_examples.git"
+  },
+  "license": "ISC",
+  "author": "Steve Cirelli",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "debug": "^4.4.3",
+    "tsx": "^4.21.0"
+  }
+}
