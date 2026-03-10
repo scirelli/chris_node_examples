@@ -15,7 +15,9 @@
   "type": "module",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:ts": "tsx main.ts",
+    "start:js": "node main.js"
   },
   "dependencies": {
     "debug": "^4.4.3",
